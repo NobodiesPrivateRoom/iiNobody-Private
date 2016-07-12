@@ -1,0 +1,46 @@
+{
+    "room":                     "Nobodies Private Plug",
+    "author":                   "iiNobody",
+    "icon":                     null,
+    "css":                      "https://code.radiant.dj/radiant.json",
+    "rules": {
+        "allowAutorespond":     true,
+        "allowAutowoot":        true,
+        "allowAutojoin":        true,
+        "allowAutograb":        true,
+        "allowSmartVote":       false,
+        "allowEmotes":          true,
+        "allowShowingMehs":     true,
+        "forceSmartVote":       false
+    },
+    "ccc": {
+        "admin":                "#42A5DC",
+        "ambassador":           "#84B423",
+        "host":                 "#9f69af",
+        "cohost":               "#9356a5",
+        "manager":              "#8565b1",
+        "bouncer":              "#717ac2",
+        "rdj":                  "#5DB4FF",
+        "subscriber":           "#A1A6B3",
+        "silversubscriber":     "#A1A6B3",
+        "friend":               "#d3a2bb",
+        "user":                 "#8B92A3"
+    },
+    "images": {
+        "background":           "https://cdn.radiant.dj/rcs/bg/2k15beach.jpg",
+        "playback":             null,
+        "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
+        "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
+        "host":                 "https://i.imgur.com/uvkSrZm.png",
+        "cohost":               "https://i.imgur.com/Qhh7mps.png",
+        "manager":              "https://i.imgur.com/Ia0XNqc.png",
+        "bouncer":              "https://i.imgur.com/aulbyGa.png",
+        "rdj":                  "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
+        "subscriber":           null,
+        "silversubscriber":     null
+    },
+    "autocomplete": [],
+    "emotes": {
+        "custom_test": "https://cdn.radiant.dj/rcs/icons/test_custom.png"
+    }
+}
